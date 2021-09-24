@@ -9,4 +9,4 @@ My content
 
 - graph for not so random numbers
 
-[Jupiter file (Test CTBA.ipynb)
+[Jupiter file] (Test CTBA.ipynb)
