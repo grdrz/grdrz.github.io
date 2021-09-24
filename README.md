@@ -1,6 +1,6 @@
 ## Welcome to Guillermo Rodriguez Abitia's Webpage
 
-
+[Graphs](/graphs/index.md) 
 
 ### Markdown
 
