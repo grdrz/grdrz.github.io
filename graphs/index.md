@@ -4,6 +4,8 @@ description: My graphs
 ---
 My content
 - graph for countries
-- graph for not so random numbers
 [html file](Test CTBA.html)
+
+- graph for not so random numbers
+
 [Jupiter file (Test CTBA.ipynb)
