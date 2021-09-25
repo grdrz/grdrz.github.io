@@ -4,5 +4,5 @@
 
 [Pics](/pics/index.md) 
 
-[Repository] (https://github.com/grdrz/ctbasample)
+[Repository](https://github.com/grdrz/ctbasample)
 
