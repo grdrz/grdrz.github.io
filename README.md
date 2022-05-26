@@ -1,5 +1,5 @@
-Title: Welcome to Guillermo Rodriguez's page version 2
-Description: My unique page
+Welcome to Guillermo Rodriguez's page version 2
+My unique page
 
 [Graphs](/graphs/index.md) 
 
